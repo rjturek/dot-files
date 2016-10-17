@@ -3,4 +3,7 @@
 ## For a new linux instance
 
 ### Install git (Ubuntu)
+```
 sudo apt-get install git-all
+```
+
