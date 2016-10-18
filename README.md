@@ -19,7 +19,7 @@ git clone git@github.com:rjturek/dot-files.git ~/dot-files
 ```
 ### Activate dot files
 ```
-chmod 777 dot-files/copyDotFiles.sh
+chmod 754 dot-files/copyDotFiles.sh
 dot-files/copyDotFiles.sh
 ```
 
