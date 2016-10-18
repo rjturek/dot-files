@@ -11,12 +11,13 @@ sudo apt-get install git
 mkdir ~/dot-files
 cd ~/dot-files
 ```
-
 ### Grab this repo
 Copy SSH keys, or make new ones and add to GitHub  
 Copy id_rsa and id_rsa.pub from from ~/.ssh to new machine's ~/.ssh 
 ```
 git clone git@github.com:rjturek/dot-files.git .
 ```
+### Activate dot files
+dot-files/copyDotFiles.sh
 
 
